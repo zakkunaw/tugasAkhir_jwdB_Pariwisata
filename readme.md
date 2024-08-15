@@ -27,22 +27,15 @@ Sistem **Pariwisata CRUD** ini memungkinkan pelanggan untuk melakukan pemesanan 
 
 ```bash
 git clone https://github.com/username/repo-name.git
-
-
 Note: Pastikan sudah mengunduh XAMPP.
 
-## 2. Setup XAMPP
+2. Setup XAMPP
 Pindahkan repositori yang sudah didownload ke dalam folder htdocs XAMPP.
-```bash
 Contoh: C:/xampp/htdocs/pariwisata
 Jalankan XAMPP dan aktifkan modul Apache dan MySQL.
-```bash
-
-## 3. Arahkan ke Web Lokal
+3. Arahkan ke Web Lokal
 Buka browser dan akses: http://localhost/pariwisata
-
-
-## 4. Penggunaan Aplikasi
+4. Penggunaan Aplikasi
 Halaman Utama:
 
 Pelanggan dapat menambahkan pesanan dengan mengklik destinasi wisata.
@@ -52,8 +45,7 @@ Dashboard Admin:
 Admin dapat login melalui link di halaman utama.
 Setelah login, admin bisa mengelola data pemesanan, termasuk menambah, mengedit, dan menghapus pesanan.
 💻 Teknologi yang Digunakan
-```bash
--PHP
--MySQL
--XAMPP
--Bootstrap (untuk styling)
+PHP
+MySQL
+XAMPP
+Bootstrap (untuk styling)
