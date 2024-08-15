@@ -45,7 +45,7 @@ MySQL
 XAMPP
 Bootstrap (untuk styling)
 📂 Struktur Direktori
-plaintext
+```
 Copy code
 📦pariwisata
  ┣ 📂assets
@@ -53,6 +53,7 @@ Copy code
  ┣ 📂pages
  ┣ 📜index.php
  ┗ 📜README.md
+```
 🛠️ Pengembangan
 Jika kamu ingin mengembangkan lebih lanjut, silakan fork repositori ini dan kirimkan pull request! 🚀
 
