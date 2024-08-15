@@ -26,7 +26,7 @@ Sistem **Pariwisata CRUD** ini memungkinkan pelanggan untuk melakukan pemesanan 
 1. **Download dan Buka Repositori**
 
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/zakkunaw/tugasAkhir_jwdB_Pariwisata.git
     ```
     **Catatan:** Pastikan sudah mengunduh XAMPP.
 
