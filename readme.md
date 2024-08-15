@@ -5,16 +5,23 @@ Sistem Pariwisata CRUD ini memungkinkan pelanggan untuk melakukan pemesanan dest
 
 📋 Fitur
 Pelanggan:
-
-Menambahkan pesanan destinasi wisata yang diinginkan.
-Melihat daftar pesanan yang telah dibuat.
-Menghubungi admin melalui pesan jika ingin mengedit pesanan.
+✨ Menambahkan pesanan destinasi wisata.
+👀 Melihat daftar pesanan.
+💬 Menghubungi admin jika perlu mengedit pesanan.
 Admin:
-
-Mengelola data pemesanan (tambah, edit, hapus).
-Mengakses dashboard admin setelah login.
+🔐 Login untuk akses dashboard admin.
+📝 Mengelola data (tambah, edit, hapus) pesanan.
+📚 Table of Contents
+Instalasi dan Penggunaan
+Teknologi yang Digunakan
+Struktur Direktori
+Pengembangan
+Kontribusi
 🚀 Instalasi dan Penggunaan
 1. Download dan Buka Repositori
+bash
+Copy code
+git clone https://github.com/username/repo-name.git
 Note: Pastikan sudah mengunduh XAMPP.
 
 2. Setup XAMPP
@@ -38,6 +45,7 @@ MySQL
 XAMPP
 Bootstrap (untuk styling)
 📂 Struktur Direktori
+plaintext
 Copy code
 📦pariwisata
  ┣ 📂assets
@@ -50,4 +58,3 @@ Jika kamu ingin mengembangkan lebih lanjut, silakan fork repositori ini dan kiri
 
 🤝 Kontribusi
 Kontribusi sangat terbuka! Jangan ragu untuk membuka issue jika menemukan masalah atau memberikan saran.
-
